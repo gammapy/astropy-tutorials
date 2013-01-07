@@ -1,4 +1,5 @@
 astropy-tutorials
 =================
 
-astropy tutorials (mostly IPython notebooks)
+IPython notebooks showcasing Astropy
+http://gammapy.github.com/astropy-tutorials/
